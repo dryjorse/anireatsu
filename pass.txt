@@ -1,0 +1,9 @@
+anireatsu123
+// const db = 'mongodb+srv://dryjorse:anireatsu123@cluster0.jis4qfy.mongodb.net/?retryWrites=true&w=majority'
+// const Animes = require('./models/animes')
+
+// mongoose
+//     .set('strictQuery', false)
+//     .connect(db)
+//     .then((res) => console.log('connected to db'))
+//     .catch((error) => console.log(error))
